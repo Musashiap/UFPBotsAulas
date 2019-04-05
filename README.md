@@ -1,2 +1,2 @@
-# UFPBots_aulas
+# UFPBotsAulas - OpenCV
 Aulas de python para o grupo UFPBots
